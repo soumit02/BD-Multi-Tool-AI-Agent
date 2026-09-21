@@ -55,7 +55,7 @@ TAVILY_API_KEY=your_tavily_api_key_here
 ```
 
 **Step 5: Add the Datasets**
-Download the datasets from Hugging Face and place them inside the `csvfile/` folder. Ensure the file names match the code (`Institutional_Information_of_Bangladesh.csv`, `all_bangladeshi_hospitals.csv`, `Bangladeshi_Restaurant_Data.csv`).
+Download the datasets from Hugging Face and place them inside the `csvfile/` folder. Ensure the file names match the code (`institution.csv`, `bangladesh_hospitals.csv`, `restaurants.csv`).
 
 **Step 6: Run the Agent**
 Open `agent.ipynb` in VS Code or Jupyter Notebook. Run the cells sequentially:
